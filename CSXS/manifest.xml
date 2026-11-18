@@ -19,8 +19,8 @@
         <Extension Id="com.leonid.gifpanel.panel">
             <DispatchInfo>
                 <Resources>
-                    <MainPath>./index.html</MainPath>
-                    <ScriptPath>./host.jsx</ScriptPath>
+                    <MainPath>../index.html</MainPath>
+                    <ScriptPath>../host.jsx</ScriptPath>
                     <CEFCommandLine>
                         <Parameter>--enable-nodejs</Parameter>
                         <Parameter>--mixed-context</Parameter>
